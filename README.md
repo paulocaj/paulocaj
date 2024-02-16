@@ -1,28 +1,32 @@
 <!--title-->
 <div id="user-content-toc" style="text-align: left;">
     <ul>
-        <summary><h1 style="display: inline-block; font-style: italic;">Hello everyone</h1></summary>
+        <summary><h1 style="display: inline; font-style: italic;">Hello everyone</h1></summary>
     </ul>
+<!-- Presentation -->
+<div>
+    <p>
+        Hello 👋, I'm Paulo! Probably a data and artificial intelligence freak.
+        <br>
+        - 🌱 I am currently an MBA student in Data Science and a postgraduate in Business Intelligence
+        <br>
+        - 🔭 I'm always looking to learn and help teams find solutions through data.
+    </p>
 </div>
 
 
-<!-- Presentation -->
-<p>
-    Hello 👋, I'm Paulo! Probably a data and artificial intelligence freak.
-
-    - 🌱 I am currently an MBA student in Data Science and a postgraduate in Business Intelligence <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style= for-the -badge&logo=edx&logoColor=white" />
-
-    - 🔭 I'm always looking to learn and help teams find solutions through data.
-</p>
 
 <!-- Dropdown menu -->
 <details>
     <summary>👨‍💻 More about me</summary>
 
-    - 💬I currently live in Fortaleza CE - Brazil. I have intermediate English and experience with SQL, Python, Data Analysis, Data Visualization and Machine Learning. Also knowledge in statistics focused on business.
-
-    - ⚡I like sports, technology and in my free time watching a good movie! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \O/
+- 💬 I currently live in Fortaleza CE - Brazil. I have intermediate English and experience with SQL, Python, Data Analysis, Data Visualization, and Machine Learning. Also knowledge in statistics focused on business.
+  
+- ⚡ I like sports, technology, and in my free time watching a good movie! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \O/
 </details>
+
+
+
 
 
 <!-- Links -->
