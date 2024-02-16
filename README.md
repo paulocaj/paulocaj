@@ -1,8 +1,10 @@
 <!--title-->
-<div id="user-content-toc">
-    <ul align="center">
-      <summary><h1 style="display: inline-block">Hello everyone </h1></summary>
+<div id="user-content-toc" style="text-align: left;">
+    <ul>
+        <summary><h1 style="display: inline-block; font-style: italic;">Hello everyone</h1></summary>
+    </ul>
 </div>
+
 
 <!-- Presentation -->
 <p>
