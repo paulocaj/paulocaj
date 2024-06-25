@@ -6,11 +6,11 @@
 <!-- Presentation -->
 <div>
     <p>
-        Hello 👋, I'm Paulo! Probably a data and artificial intelligence freak.
+         Hello 👋, I'm Paulo! Probably a fanatic about web development, data and artificial intelligence.
         <br>
         - 🌱 I am currently an MBA student in Data Science and a postgraduate in Business Intelligence
         <br>
-        - 🔭 I'm always looking to learn and help teams find solutions through data.
+        - 🔭 I'm always looking to learn and help teams find solutions through data and software development
     </p>
 </div>
 
@@ -48,6 +48,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="R" height="30" width="40" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+    <img align="center" alt="JS" height="30" width="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
@@ -56,7 +57,7 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
  
   </div>
   
