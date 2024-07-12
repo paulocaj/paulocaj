@@ -35,12 +35,6 @@
 [![Estatísticas do GitHub de paulocaj](https://github-readme-stats.vercel.app/api?username=paulocaj)](https://github.com/paulocaj/github-readme-stats)
 
 
-
-<!-- Portfolio -->
-## Portfolio Power BI:
-- [Dashboard - Power BI and Python ](https://sites.google.com/view/portifoliopaulohcajazeiras/in%C3%ADcio)
-
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
@@ -48,6 +42,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="JS" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
@@ -58,6 +53,6 @@
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
  
   </div>
-  
